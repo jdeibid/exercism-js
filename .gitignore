@@ -1,0 +1,8 @@
+*.eslintrc
+*.babel.js
+**/.exercism
+**/node_modules
+*.npmrc
+*.config.js
+*.json
+*.spec.js
